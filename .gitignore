@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+server.js
+coverage/
+.DS_Store
+*.log
+# Model YOLO berukuran besar & berlisensi sendiri: jangan ikut ter-commit
+models/yolo/*.onnx
+models/yolo/*.pt
+.env*
+!.env.example

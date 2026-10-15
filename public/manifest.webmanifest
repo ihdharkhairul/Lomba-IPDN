@@ -1,0 +1,15 @@
+{
+  "name": "LAPORIN - Layanan Pelaporan dan Validasi Infrastruktur",
+  "short_name": "LAPORIN",
+  "description": "Laporkan kerusakan jalan dengan GPS dan validasi visual berbantuan AI.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1d4ed8",
+  "theme_color": "#1d4ed8",
+  "lang": "id",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

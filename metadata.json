@@ -1,0 +1,6 @@
+{
+  "name": "LAPORIN - Layanan Pelaporan dan Validasi Infrastruktur",
+  "description": "Prototype aplikasi mobile-first untuk melaporkan kerusakan jalan dengan GPS (termasuk offline), draft & sinkronisasi, peta Google Maps, dan validasi visual berbantuan Gemini AI.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
